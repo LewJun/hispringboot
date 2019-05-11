@@ -4,6 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>01-helloworld</module>
+        <module>02-helloworld-war</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
